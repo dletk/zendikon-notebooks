@@ -7,7 +7,6 @@ from typing import List
 
 from zendikon.aml.tabular_data_step_decorator import TabularDataAmlPythonStepCompatible
 from zendikon.aml.types import StepArgument
-from helper import split_full_for_forecasting
 
 
 @TabularDataAmlPythonStepCompatible(
