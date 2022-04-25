@@ -5,4 +5,4 @@ dependencies:
       - azureml-train-automl-runtime==1.39.0
       - xgboost==1.3.3
       - pandas
-      - https://zendikontest6824921913.blob.core.windows.net/azureml/Environment/azureml-private-packages/zendikon-1.10.0.post1-py3-none-any.whl
+      - https://zendikontest6824921913.blob.core.windows.net/azureml/Environment/azureml-private-packages/zendikon-1.10.0.post5-py3-none-any.whl
