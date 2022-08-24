@@ -1,0 +1,6 @@
+dependencies:
+  - python=3.7
+  - pip:
+      - pandas
+      - numpy
+      - skl2onnx
